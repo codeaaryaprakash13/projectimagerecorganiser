@@ -1,0 +1,16 @@
+.heading{
+    width:80%;
+    font-size:22px;
+}
+body{
+    background-image: linear-gradient(to bottom right, rgb(0, 238, 255) ,rgb(111, 0, 255));
+}
+.name_objects{
+    font-size: 20px;
+    color:aliceblue;
+}
+#camara{
+    border:2px dashed white;
+    width:350px;
+    height:300px;
+}
